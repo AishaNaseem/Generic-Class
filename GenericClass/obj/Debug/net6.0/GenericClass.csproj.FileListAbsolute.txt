@@ -1,0 +1,15 @@
+C:\Aisha\C#.NET\GenericClass\bin\Debug\net6.0\GenericClass.exe
+C:\Aisha\C#.NET\GenericClass\bin\Debug\net6.0\GenericClass.deps.json
+C:\Aisha\C#.NET\GenericClass\bin\Debug\net6.0\GenericClass.runtimeconfig.json
+C:\Aisha\C#.NET\GenericClass\bin\Debug\net6.0\GenericClass.dll
+C:\Aisha\C#.NET\GenericClass\bin\Debug\net6.0\GenericClass.pdb
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.csproj.AssemblyReference.cache
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfoInputs.cache
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfo.cs
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.dll
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\refint\GenericClass.dll
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.pdb
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\GenericClass.genruntimeconfig.cache
+C:\Aisha\C#.NET\GenericClass\obj\Debug\net6.0\ref\GenericClass.dll
